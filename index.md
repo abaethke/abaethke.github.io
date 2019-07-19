@@ -12,3 +12,5 @@ This is content I developed for my course.
 This is an example repository
 - [Example Link to Repository](https://github.com/abaethke/Example-Repository-Link/blob/master/index.md)
 
+I don't have videos yet but who doesn't love Family Feud?!
+[![Sorting](https://img.youtube.com/vi/Ev3sRw69RuQ/0.jpg)](http://www.youtube.com/watch?v=Ev3sRw69RuQ)
