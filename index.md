@@ -1,6 +1,6 @@
 ---
-Title: Sample Work
-Description: This page contains a collection of random sample work.
+title: Sample Work
+description: This page contains a collection of random sample work.
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
