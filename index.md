@@ -7,7 +7,7 @@ description: This page contains a collection of random sample work.
 
 This is content I developed for my course.
 
--[Time Series Decomposition (W&M Created)](./TimeSeries/index.md)
+- [Time Series Decomposition (W&M Created)](./TimeSeries/index.md)
 
 This is an example repository
 - [Example Link to Repository](https://github.com/abaethke/Example-Repository-Link/blob/master/index.md)
